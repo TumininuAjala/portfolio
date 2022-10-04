@@ -62,7 +62,7 @@ if (window.innerWidth < 850) {
 
 // TEXT EFFECT
 // TEXT ARRAY
-const dataText = ["Web Developer.", "Blogger", "Content Developer", "Developer Advocate"];
+const dataText = ["Web Developer.", "Blogger","Technical Writer"];
 document.addEventListener("DOMContentLoaded", typingEffect);
 
 function typingEffect() {
